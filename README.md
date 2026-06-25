@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
