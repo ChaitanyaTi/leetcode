@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
