@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
