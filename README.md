@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
