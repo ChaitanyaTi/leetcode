@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
+| [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
 ## Math
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
