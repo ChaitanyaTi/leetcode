@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
 ## Backtracking
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -107,4 +109,16 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChaitanyaTi/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
