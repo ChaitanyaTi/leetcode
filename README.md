@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
