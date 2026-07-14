@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChaitanyaTi/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChaitanyaTi/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Tree
 |  |
 | ------- |
