@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
