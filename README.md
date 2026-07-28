@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
