@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding
 | [0091-decode-ways](https://github.com/ChaitanyaTi/leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding
 | [0133-clone-graph](https://github.com/ChaitanyaTi/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ChaitanyaTi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ChaitanyaTi/leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChaitanyaTi/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
