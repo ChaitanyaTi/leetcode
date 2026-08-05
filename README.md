@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
