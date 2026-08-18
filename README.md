@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding
 | [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/ChaitanyaTi/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/ChaitanyaTi/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0097-interleaving-string) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
 ## Stack
 |  |
 | ------- |
