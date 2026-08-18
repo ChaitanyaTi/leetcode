@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/ChaitanyaTi/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0097-interleaving-string) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/ChaitanyaTi/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
