@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChaitanyaTi/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
+| [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding
 | [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/ChaitanyaTi/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -271,4 +273,5 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
