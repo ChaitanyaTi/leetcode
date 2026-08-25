@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
+| [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ChaitanyaTi/leetcode/tree/master/0055-jump-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ChaitanyaTi/leetcode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
