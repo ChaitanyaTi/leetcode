@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
