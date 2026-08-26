@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
