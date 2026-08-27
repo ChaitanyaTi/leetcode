@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChaitanyaTi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -269,10 +271,12 @@ A collection of LeetCode questions to ace the coding
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Graph Theory
 |  |
