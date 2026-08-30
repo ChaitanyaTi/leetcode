@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding
 | [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChaitanyaTi/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ChaitanyaTi/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ChaitanyaTi/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0097-interleaving-string) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ChaitanyaTi/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ChaitanyaTi/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ChaitanyaTi/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
