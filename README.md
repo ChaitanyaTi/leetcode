@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding
 | [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding
 | [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding
 | [0076-minimum-window-substring](https://github.com/ChaitanyaTi/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ChaitanyaTi/leetcode/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
