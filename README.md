@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding
 | [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ChaitanyaTi/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -328,4 +331,5 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
