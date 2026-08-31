@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ChaitanyaTi/leetcode/tree/master/0994-rotting-oranges) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ChaitanyaTi/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding
 | [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ChaitanyaTi/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
