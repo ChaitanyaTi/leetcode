@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChaitanyaTi/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ChaitanyaTi/leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ChaitanyaTi/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding
 | [0560-subarray-sum-equals-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChaitanyaTi/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
