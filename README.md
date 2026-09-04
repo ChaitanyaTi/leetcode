@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChaitanyaTi/leetcode/tree/master/0020-valid-parentheses) |
 | [0068-text-justification](https://github.com/ChaitanyaTi/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChaitanyaTi/leetcode/tree/master/0072-edit-distance) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChaitanyaTi/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ChaitanyaTi/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ChaitanyaTi/leetcode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ChaitanyaTi/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
