@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/ChaitanyaTi/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ChaitanyaTi/leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ChaitanyaTi/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChaitanyaTi/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/ChaitanyaTi/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ChaitanyaTi/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ChaitanyaTi/leetcode/tree/master/0739-daily-temperatures) |
 ## Quicksort
 |  |
 | ------- |
