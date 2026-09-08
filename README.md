@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding
 | [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ChaitanyaTi/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ChaitanyaTi/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChaitanyaTi/leetcode/tree/master/0057-insert-interval) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding
 | [0039-combination-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ChaitanyaTi/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ChaitanyaTi/leetcode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
 ## Tree
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ChaitanyaTi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
