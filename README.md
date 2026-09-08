@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding
 | [0064-minimum-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ChaitanyaTi/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChaitanyaTi/leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChaitanyaTi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding
 | [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ChaitanyaTi/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 ## Combinatorics
