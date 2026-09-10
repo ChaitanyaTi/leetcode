@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChaitanyaTi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
