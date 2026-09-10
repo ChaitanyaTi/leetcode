@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
