@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChaitanyaTi/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ChaitanyaTi/leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ChaitanyaTi/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -308,15 +311,18 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +334,7 @@ A collection of LeetCode questions to ace the coding
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/ChaitanyaTi/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -406,4 +413,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
