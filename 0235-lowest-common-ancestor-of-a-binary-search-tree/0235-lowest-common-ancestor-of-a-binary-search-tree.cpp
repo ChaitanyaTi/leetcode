@@ -10,21 +10,31 @@
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* current = root;
-        
-        while (current != nullptr) {
-            if (p->val > current->val && q->val > current->val) {
-                current = current->right;
-            }
-            else if (p->val < current->val && q->val < current->val) {
-                current = current->left;
-            }
-            else {
-                return current;
-            }
+    TreeNode* fun (TreeNode* root, TreeNode* p, TreeNode* q){
+        TreeNode* ans = nullptr;
+        if(root == nullptr) return ans;
+        if(p == root || q == root){
+            ans = root;
+            return ans;
         }
-        
-        return nullptr;
+        if(p->val > root->val && q->val > root->val ){
+            return fun (root -> right,p,q);
+        }
+        else if(p->val < root->val && q->val < root->val){
+            return fun (root -> left,p,q);
+        }
+        else{
+            ans = root;
+            return ans;
+        }
     }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if(p->val > q->val){
+            return fun(root,p,q);
+        }
+        else{
+            return fun (root,q,p);
+        }
+    }
+    
 };
