@@ -1,20 +1,23 @@
 class Solution {
 public:
+
+    int fun(vector<int>& nums, int n , int i, int free, vector<vector<int>>&dp){
+        if(i == n){
+            return 0;
+        }
+        if( dp[i][free] != -1){
+            return dp[i][free];
+        }
+        if(free == 0){
+            return dp [i][free] = fun(nums,n,i+1,1,dp);
+        }
+        int c1 = fun(nums,n,i+1,1,dp);
+        int c2 = nums[i] + fun(nums,n,i+1,0,dp);
+        return dp[i][free] = max(c1,c2);
+    }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
-        
-        int prev2 = 0;        
-        int prev1 = nums[0];  
-        
-        for (int i = 1; i < n; i++) {
-            int current = max(prev1, nums[i] + prev2);
-            
-            prev2 = prev1;
-            prev1 = current;
-        }
-        
-        return prev1;
+        vector<vector<int>> dp(n, vector<int>(2, -1));
+        return fun(nums, n, 0, 1, dp);
     }
 };
