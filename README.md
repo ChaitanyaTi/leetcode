@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding
 | [0152-maximum-product-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ChaitanyaTi/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding
 | [0062-unique-paths](https://github.com/ChaitanyaTi/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChaitanyaTi/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0509-fibonacci-number) |
