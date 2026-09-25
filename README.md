@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding
 | [0152-maximum-product-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChaitanyaTi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChaitanyaTi/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/ChaitanyaTi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding
 | [0047-permutations-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ChaitanyaTi/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
@@ -483,4 +488,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
