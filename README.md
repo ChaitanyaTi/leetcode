@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ChaitanyaTi/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChaitanyaTi/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChaitanyaTi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ChaitanyaTi/leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding
 | [0146-lru-cache](https://github.com/ChaitanyaTi/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ChaitanyaTi/leetcode/tree/master/0409-longest-palindrome) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChaitanyaTi/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0767-reorganize-string) |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChaitanyaTi/leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
