@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding
 | [0094-binary-tree-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding
 | [0094-binary-tree-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ChaitanyaTi/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ChaitanyaTi/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ChaitanyaTi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ChaitanyaTi/leetcode/tree/master/0133-clone-graph) |
