@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int findmax(vector<int> &a){
-        int maxc = -1;
-        for(int i =0; i<256; i++){
-            maxc = max(maxc , a[i]);
+    int maxi(vector<int>&f){
+        int maxy = INT_MIN;
+        for(int i =0; i<256 ; i++){
+            maxy = max(maxy,f[i]);
         }
-        return maxc;
+        return maxy;
     }
     int characterReplacement(string s, int k) {
-        int left =0;
-        int right =0;
-        vector<int> f(256,0);
-        int maxi = INT_MIN;
-        for(int right=0; right<s.size(); right++){
+        vector<int>f(256,0);
+        int maxy = INT_MIN;
+        int left = 0;
+        for(int right =0; right< s.size(); right++){
             f[s[right]]++;
-            int maxcnt = findmax(f);
             int len = right - left + 1;
-            int diff = len - maxcnt;
+            int maxier = maxi(f);
+            int diff = len - maxier;
             while(diff > k){
                 f[s[left]]--;
                 left++;
-                maxcnt = findmax(f);
-                len = right - left + 1;
-                diff = len - maxcnt;
+                maxier = maxi(f);
+                int len = right - left + 1;
+                diff = len - maxier;
             }
             len = right - left + 1;
-            maxi = max(maxi, len);
+            maxy = max(maxy, len);
         }
-        return maxi;
+        return maxy;
     }
-    
 };
