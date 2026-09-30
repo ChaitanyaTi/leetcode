@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChaitanyaTi/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ChaitanyaTi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ChaitanyaTi/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChaitanyaTi/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding
 | [0011-container-with-most-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ChaitanyaTi/leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ChaitanyaTi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ChaitanyaTi/leetcode/tree/master/0075-sort-colors) |
