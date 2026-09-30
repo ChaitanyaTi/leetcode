@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding
 | [0283-move-zeroes](https://github.com/ChaitanyaTi/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ChaitanyaTi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ChaitanyaTi/leetcode/tree/master/0986-interval-list-intersections) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding
 | [0409-longest-palindrome](https://github.com/ChaitanyaTi/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ChaitanyaTi/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ChaitanyaTi/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding
 | [0209-minimum-size-subarray-sum](https://github.com/ChaitanyaTi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChaitanyaTi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Graph Theory
 |  |
