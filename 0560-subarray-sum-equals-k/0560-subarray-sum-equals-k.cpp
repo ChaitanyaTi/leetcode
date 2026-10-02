@@ -1,18 +1,15 @@
-#include <vector>
-#include <unordered_map>
-
 class Solution {
 public:
-    int subarraySum(std::vector<int>& nums, int k) {
-        unordered_map<int,int>f;
-        int sum =0;
-        int res = 0;
+    int subarraySum(vector<int>& nums, int k) {
+        unordered_map<int, int> f;
         f[0] = 1;
+        int res = 0;
+        int sum = 0;
         for(int i =0; i<nums.size(); i++){
             sum += nums[i];
-            int ques = sum - k;
-            if(f.find(ques) != f.end()){
-                res += f[ques];
+            int rem = sum - k;
+            if(f.find(rem) != f.end()){
+                res+=f[rem];
             }
             f[sum]++;
         }
