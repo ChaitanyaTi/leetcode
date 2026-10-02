@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ChaitanyaTi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ChaitanyaTi/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChaitanyaTi/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ChaitanyaTi/leetcode/tree/master/0986-interval-list-intersections) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding
 | [0322-coin-change](https://github.com/ChaitanyaTi/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ChaitanyaTi/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ChaitanyaTi/leetcode/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ChaitanyaTi/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Breadth-First Search
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChaitanyaTi/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChaitanyaTi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding
 | [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChaitanyaTi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ChaitanyaTi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChaitanyaTi/leetcode/tree/master/0169-majority-element) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ChaitanyaTi/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
